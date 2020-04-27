@@ -12,7 +12,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from textgeneration import generate_paragraph,degenerate_paragraph
-from affineCypther import cypher,decypher
+from affineCypher import cypher,decypher
 from PIL import Image
 class Ui_MainWindow(object):
     def encrypt(self):
