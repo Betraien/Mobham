@@ -24,7 +24,6 @@ def gen_sentence(word, key, variance=2, diversity=100):
             terms.append(term)
         sentence+=" "+random.choice(terms)
     return sentence.replace("_"," ")+"."
-# a b c    ahmed is a good student. but he is not bas. cause he need encouragment.
 
 def generate_paragraph(list,key,variance=2,diversity=100):
     vocab = json.load(open('data.json', 'r'))
@@ -35,12 +34,10 @@ def generate_paragraph(list,key,variance=2,diversity=100):
             paragraph+="\n"
             continue
         c=get_word(i,vocab=vocab)
-        print(c)
         paragraph+=gen_sentence(c,key,variance,diversity).replace("\n","")
     return paragraph
 
 def degenerate_paragraph(paragraph):
-    print(paragraph)
     sentences=paragraph.split("\n")
     original = []
     for i in sentences:
@@ -50,5 +47,4 @@ def degenerate_paragraph(paragraph):
             else:
                 original.append(j[0])
         original.append(" ")
-    print("degenerate",original,len(sentences))
     return original
