@@ -5,4 +5,7 @@ Created by three KFUPMers:<br><br>
 - Abdulaziz Alzammai<br>
 - Shabib Aldossari<br>
 
-under the supervision of Dr.Husni Almuhtaseb
+under the supervision of Dr.Husni Almuhtaseb<br><br>
+Plaese find the trained set by our Arteficial Intellegiance Model Here:<br>
+https://gofile.io/?c=N62Y4J <br>
+Please download it and place in the root file before running the code.
