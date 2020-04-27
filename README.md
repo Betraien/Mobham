@@ -8,5 +8,5 @@ Created by three KFUPMers:<br><br>
 under the supervision of Dr.Husni Almuhtaseb<br><br>
 Plaese find the trained set by our Arteficial Intellegiance Model Here:<br>
 https://gofile.io/?c=N62Y4J <br>
-Please download it and place in the root file before running "MubhamUI.py" code.<br><br>
-All rights reserved to the creators, and king fahd university of petroluem and minirals.
+Please download it and place it in the root file before running "MubhamUI.py" code.<br><br>
+This Project was developed as a part of ICS484 course requirement, all parties involved in creating this software is agreed upon letting it open-source and available to every entity/individual interested.<br>for any inquires contact us on shabib.aldossari@hotmail.com
