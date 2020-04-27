@@ -1,5 +1,5 @@
 # Mobham
-Mobham is a software that utilizes artificial intellegience tachnics to cypher/dycypher arabic text.<br>
+Mobham is a software that utilizes artificial intellegience tachnics to cypher/decypher arabic text.<br>
 Created by three KFUPMers:<br><br>
 - Saleh AlAbdullatif<br>
 - Abdulaziz Alzammai<br>
